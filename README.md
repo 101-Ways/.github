@@ -1,10 +1,12 @@
-<div style="display: flex; flex-direction: column; align-items: center; padding-top:30px; text-align: center;">
-<img src="./pictures/101-logo.png" alt="101 Ways Banner" width="100px" />
-<div>
-<h1>Hello 👋<br/> We Are 101 Ways.</h1>
-<p style="font-size: 24px">We are a product and technology consultancy.</p>
+<div align="center" style="padding-top:30px;">
+  ![101 Ways Banner](./pictures/101-logo.png)
+
+# Hello 👋
+## We Are 101 Ways.
+
+We are a product and technology consultancy.
 </div>
-</div>
+
 
 ## Introduction 🤝
 
