@@ -2,10 +2,9 @@
 
 <img src="./pictures/101-logo.png" alt="101 Ways Banner" width="100px" />
 
-<span style="font-size: 32px;">Hello 👋</span><br/>
-<span style="font-size: 24px;">We Are 101 Ways.</span>
-
-We are a product and technology consultancy.
+<span style="font-size: 32px; font-weight: bold;">Hello 👋</span><br/>
+<span style="font-size: 32px; font-weight: bold;">We Are 101 Ways.</span><br/>
+<span style="font-size: 18px; font-weight: normal;">We are a product and technology consultancy.</span>
 </div>
 
 
