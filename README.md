@@ -1,10 +1,6 @@
 <div align="center" style="padding-top:30px;">
-  
-<div style="width: 100px">
 
-![101 Ways Banner](./pictures/101-logo.png)
-
-</div>
+<img src="./pictures/101-logo.png" alt="101 Ways Banner" width="100px" />
 
 # Hello 👋
 ## We Are 101 Ways.
