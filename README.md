@@ -1,4 +1,4 @@
-<div align="center" style="padding-top:30px;">
+<div style="padding-top:30px; text-align: center">
 
 <img src="./pictures/101-logo.png" alt="101 Ways Banner" width="100px" />
 
