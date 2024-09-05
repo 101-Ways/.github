@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hello 👋<br/> We Are 101 Ways. <br/> <br/> We are a product and technology consultancy.
+# Hello 👋<br/> We Are 101 Ways.
 </div>
 
 
