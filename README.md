@@ -2,8 +2,11 @@
   <img src="./pictures/101-logo.png" alt="101 Ways Banner" width="100px"/>
 </p>
 
-<h2 align="center">Hello 👋</h3>
-<h2 align="center">We Are 101 Ways.</h2>
+<div align="center">
+
+# Hello 👋<br/> We Are 101 Ways.
+</div>
+
 <p align="center">
   <strong>We are a product and technology consultancy.</strong>
 </p>
