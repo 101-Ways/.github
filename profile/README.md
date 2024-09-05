@@ -13,7 +13,7 @@ We help our clients create products and services that transform how people think
 
 <img alt="The 101 Ways Clients" src="../pictures/101-clients.png" />
 
-## Engineering At 101Ways
+## Engineering At 101Ways 💻
 At 101 Ways we pride ourselves on delivering the highest quality work to our clients and uphold various standards. Infact we have embedded these into principles which we hope all of our engineers will follow:
 [101 Ways Engineering Principles](https://docs.google.com/document/d/1H5n6TvZYD2q_YfN0CfI90tqega_T_KvfN8jZFBAzTNc/edit?usp=sharing)
 
@@ -24,5 +24,5 @@ We measure the success of our engineers on the following things:
 - Being a team player and indexing for quality (adding unit tests, E2E tests, AGILE methodology, DORA metrics, etc.).
 - Balancing doing the right thing and the ideal thing, for example: if under a deadline we may not implement the most ideal system in place but one that in in-line with client budget and timescales).
 
-## Some Of The Technologies We Use 💻
+## Some Of The Technologies We Use 🚀
 <img alt="A list of technologies 101 ways engineers use" src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes,dotnet,vue,azure,gitlab" />
