@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../pictures/101-logo.png" alt="101 Ways Banner" width="100px"/>
+  <img src="./pictures/101-logo.png" alt="101 Ways Banner" width="100px"/>
 </p>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 We help our clients create products and services that transform how people think, buy and behave. We have an organisation of over 150+ people and work with some of the largest brands in the Europe, such as M&S, Recharge, Tide Banking, Hargreaves Lansdown, Zoopla, Just Eat and many, many more.
 
-<img alt="The 101 Ways Clients" src="../pictures/101-clients.png" />
+<img alt="The 101 Ways Clients" src="./pictures/101-clients.png" />
 
 ## Some Of The Technologies We Use 💻
 <img alt="A list of technologies 101 ways engineers use" src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes,dotnet,vue,azure,gitlab" />
