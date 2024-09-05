@@ -1,10 +1,10 @@
-<div style="padding-top:30px; text-align: center">
+<p align="center">
+  <img src="../pictures/101-logo.png" alt="101 Ways Banner" width="100px"/>
+</p>
 
-<img src="../pictures/101-logo.png" alt="101 Ways Banner" width="100px" />
+<div align="center">
 
-<span style="font-size: 32px; font-weight: bold;">Hello 👋</span><br/>
-<span style="font-size: 32px; font-weight: bold;">We Are 101 Ways.</span><br/>
-<span style="font-size: 18px; font-weight: normal;">We are a product and technology consultancy.</span>
+# Hello 👋<br/> We Are 101 Ways. <br/> <br/> We are a product and technology consultancy.
 </div>
 
 
