@@ -1,13 +1,6 @@
-<p align="center">
-  <img src="../pictures/101-logo.png" alt="101 Ways Banner" width="100px"/>
-</p>
+<img src="../pictures/101-banner.png" alt="101 banner" />
 
-<div align="center">
-
-# Hello 👋<br/> We Are 101 Ways.
-</div>
-
-<h3>Introduction 🤝</h3>
+## Introduction 🤝
 
 We help our clients create products and services that transform how people think, buy and behave. We have an organisation of over 150+ people and work with some of the largest brands in the Europe, such as M&S, Recharge, Tide Banking, Hargreaves Lansdown, Zoopla, Just Eat and many, many more.
 
